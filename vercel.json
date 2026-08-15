@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://signal.group/#CjQKIGbuVN5QOwzaz85J50ebg05hPmStJFLm15S7wr9PS-wEEhDrXySme5jq8KIj7FJj-k0s",
+      "destination": "https://forms.gle/3ZCMRTgiaox8fA7q8",
       "permanent": false
     }
   ]
